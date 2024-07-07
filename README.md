@@ -1,2 +1,3 @@
 # demo2
-Trial Purpose
+This repo contains different types of patters using python
+
