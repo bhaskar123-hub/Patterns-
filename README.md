@@ -1,2 +1,2 @@
-This repo contains different types of patters using python !!
+This repo contains python code for making patterns 
 
